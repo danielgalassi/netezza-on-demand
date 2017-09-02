@@ -26,7 +26,7 @@ public class SignUp extends HttpServlet {
 			account.equals("ADMIN")) {
 			isAccountNameInvalid = true;
 		}
-		
+		//https://stackoverflow.com/questions/1625234/how-to-append-text-to-an-existing-file-in-java
 	}
 
 }
